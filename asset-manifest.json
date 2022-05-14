@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tearexgame/static/css/main.63f4603f.css",
+    "main.js": "/tearexgame/static/js/main.05ef27ff.js",
+    "static/media/2.jpg": "/tearexgame/static/media/2.8d5c178630c8271a2f19.jpg",
+    "static/media/3.jpg": "/tearexgame/static/media/3.406e85108f1a876f4f51.jpg",
+    "static/media/5.jpg": "/tearexgame/static/media/5.f50d4335e34c461fd7cf.jpg",
+    "static/media/4.jpg": "/tearexgame/static/media/4.73dbe58290347970ef47.jpg",
+    "static/media/bg.jpg": "/tearexgame/static/media/bg.44d55d4061fd9ae06eef.jpg",
+    "static/media/mainfont.otf": "/tearexgame/static/media/mainfont.9113ca56034cfbd7fad5.otf",
+    "static/media/slick.svg": "/tearexgame/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/tearexgame/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/tearexgame/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/tearexgame/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/tearexgame/index.html",
+    "main.63f4603f.css.map": "/tearexgame/static/css/main.63f4603f.css.map",
+    "main.05ef27ff.js.map": "/tearexgame/static/js/main.05ef27ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63f4603f.css",
+    "static/js/main.05ef27ff.js"
+  ]
+}
